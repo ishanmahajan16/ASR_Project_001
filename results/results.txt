@@ -1,0 +1,21 @@
+
+
+component: 64   no_delta  with_energy_coefficient   accuracy:  0.14409954390470708
+component: 64   no_delta  without_energy_coefficient   accuracy:  0.1329318513926405
+component: 64   delta+1  with_energy_coefficient   accuracy:  0.18861090200593367
+component: 64   delta+1  without_energy_coefficient   accuracy:  0.17534207146968958
+component: 64   delta+2  with_energy_coefficient   accuracy:  0.19261391312048887
+component: 64   delta+2  without_energy_coefficient   accuracy:  0.17387636717885135
+component:  2  no_delta   without_energy_coefficient   accuracy:  0.024009210468051188
+component:  4  no_delta   without_energy_coefficient   accuracy:  0.024009210468051188
+component:  8  no_delta   without_energy_coefficient   accuracy:  0.024009210468051188
+component:  16  no_delta   without_energy_coefficient   accuracy:  0.024009210468051188
+component:  32  no_delta   without_energy_coefficient   accuracy:  0.024009210468051188
+component:  128  no_delta   without_energy_coefficient   accuracy:  0.024009210468051188
+component:  256  no_delta   without_energy_coefficient   accuracy:  0.024009210468051188
+
+
+Sentence count: 1680
+WER:   % 87.63(   388632/ 443492)
+WRR:     6.804% (    26609 /     443492)
+SER:   83.940% (      1410 /       1680)
